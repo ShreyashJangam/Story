@@ -1,1 +1,2 @@
-hello this for branching and merging
+1) hello this for branching and merging .
+2) after we make copy means forking and make chage .
